@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Front-end Development and Data Structure and Algorithms**
 
-- 📝 I regularly practice queations on [Leetcode](Leetcode)
+- 📝 I regularly practice questions on [Leetcode](Leetcode)
 
 - 📫 How to reach me **myselfadas00@gmail.com**
 
