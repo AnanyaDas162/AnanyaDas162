@@ -31,6 +31,6 @@
 <img alt="coding" width=auto height=400 src="https://github.com/AnanyaDas162/LGMVIP-WEBDEV/blob/main/Images/download.jpg">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyadas162&show_icons=true&locale=en&layout=compact" alt="ananyadas162" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananyadas162&show_icons=true&locale=en" alt="ananyadas162" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananyadas162&show_icons=true&locale=en" alt="ananyadas162"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyadas162&" alt="ananyadas162" /></p>
